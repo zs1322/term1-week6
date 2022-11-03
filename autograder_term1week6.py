@@ -132,6 +132,9 @@ def question1_i_f():
     
 def question1_i_g():        
         return 3
+    
+def question1_i_h():        
+        return 2
 
     
 def question1_ii_check(sol, ans, typ):
